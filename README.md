@@ -1,6 +1,7 @@
 ### Hi there 👋 - Welcome to my page!
 
-![profile pic](https://i.imgur.com/fI4axXf.png)
+![profile pic](https://i.imgur.com/MyOS9BQ.png)
+https://taplink.cc/ulrich_mabou
 
 I'm just a hobbyist dev and analyst; I've a background in engineering and entrepreneuship, and I'm currently exploring new stuff :)
 
