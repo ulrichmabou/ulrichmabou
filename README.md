@@ -1,6 +1,6 @@
 ### Hi there 👋 - Welcome to my page!
 
-I'm a versatile technologist with experience in engineering, product management, operations and entrepreneurship. I'm currently helping merchants and businesses of all sizes easily accept payments at [Peach Payments](https://www.peachpayments.com/#/company/about).
+I'm a versatile technologist with experience in engineering, product management, operations and entrepreneurship. I'm currently helping merchants and businesses of all sizes easily accept payments at Peach Payments.
 
 ![LinkedIn](https://i.imgur.com/MKe1Xdu.png) [Let's connect](https://www.linkedin.com/in/ulrichmabou/) 
 
