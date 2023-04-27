@@ -1,7 +1,5 @@
 ### Hi there 👋 - Welcome to my page!
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/ulrichmabou/) 
+Let's connect on [Twitter](https://twitter.com/_umabou) or [LinkedIn](https://www.linkedin.com/in/ulrichmabou/). 
 
-[Let's engage on Twitter](https://twitter.com/_umabou)
-
-[Check out my latest notes](https://ulrich.bearblog.dev/blog/)
+Check out my latest [notes](https://ulrich.bearblog.dev/blog/).
