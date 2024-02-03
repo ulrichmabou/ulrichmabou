@@ -1,8 +1,6 @@
 ## Hi, I'm Ulrich 👋
 
-#### A technologist and aspiring #maker
-
-I'm leaning to code to start building interesting projects in my spare time.
+Welcome to my GitHub page.
 
 ---
 
